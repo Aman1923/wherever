@@ -1,0 +1,220 @@
+Uri: https://img1.wsimg.com/blobby/go/9e2f8adf-a7f7-48df-99f9-574a93eab541/gpub/48ceb05f340732a4/script.js
+File Name: D:\wherever\kindergartenfight.site\blobby\go\9e2f8adf-a7f7-48df-99f9-574a93eab541\gpub\48ceb05f340732a4\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/9e2f8adf-a7f7-48df-99f9-574a93eab541/gpub/d53e200d0d28f003/script.js
+File Name: D:\wherever\kindergartenfight.site\blobby\go\9e2f8adf-a7f7-48df-99f9-574a93eab541\gpub\d53e200d0d28f003\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.20.4.js
+File Name: D:\wherever\kindergartenfight.site\ceph-p3-01\website-builder-data-prod\static\widgets\UX.4.20.4.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/gfonts/s/cabin/v18/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7alwg.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\cabin\v18\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7alwg.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/lato/v22/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\lato\v22\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/lato/v22/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\lato\v22\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/lato/v22/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\lato\v22\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/lato/v22/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\lato\v22\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/lato/v22/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: D:\wherever\kindergartenfight.site\gfonts\s\lato\v22\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1279,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1350,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1535,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1920,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2046,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2301,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3069,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3070,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3837,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3840,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:450,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:4605,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:5760,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:767,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/3902e121-b258-4e24-9f04-1e9e99c47774.jfif/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:900,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\3902e121-b258-4e24-9f04-1e9e99c47774.jfif\cr=t0%,l0%,w100%,h100%\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:114,h:114,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w114,h114,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:120,h:120,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w120,h120,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:144,h:144,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w144,h144,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:152,h:152,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w152,h152,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:16,h:16,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w16,h16,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:180,h:180,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w180,h180,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:24,h:24,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w24,h24,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:32,h:32,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w32,h32,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:48,h:48,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w48,h48,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:57,h:57,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w57,h57,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:60,h:60,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w60,h60,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:64,h:64,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w64,h64,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/favicon/82ca4665-b361-4bc3-9358-a9eada300525.png/:/rs=w:72,h:72,m
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\favicon\82ca4665-b361-4bc3-9358-a9eada300525.png\rs=w72,h72,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/Wheat teaching field.png/:/
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\Wheat teaching field.png\index.htm
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/Wheat teaching field.png/:/rs=w:1023
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\Wheat teaching field.png\rs=w1023
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/Wheat teaching field.png/:/rs=w:1160
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\Wheat teaching field.png\rs=w1160
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/Wheat teaching field.png/:/rs=w:403
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\Wheat teaching field.png\rs=w403
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/Wheat teaching field.png/:/rs=w:719
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\Wheat teaching field.png\rs=w719
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/9e2f8adf-a7f7-48df-99f9-574a93eab541/Wheat teaching field.png/:/rs=w:984
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\9e2f8adf-a7f7-48df-99f9-574a93eab541\Wheat teaching field.png\rs=w984
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:177.77777777777777
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\static\transparent_placeholder.png\rs=w177.77777777777777
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:365
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\static\transparent_placeholder.png\rs=w365
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:451
+File Name: D:\wherever\kindergartenfight.site\isteam\ip\static\transparent_placeholder.png\rs=w451
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js
+File Name: D:\wherever\kindergartenfight.site\tcc\tcc_l.combined.1.0.6.min.js
+Content Type: application/x-javascript
+
+Uri: https://kindergartenfight.site/
+File Name: D:\wherever\kindergartenfight.site\index.htm
+Content Type: text/html
+
+Uri: https://kindergartenfight.site/manifest.webmanifest
+File Name: D:\wherever\kindergartenfight.site\manifest.webmanifest
+Content Type: application/manifest+json
+
